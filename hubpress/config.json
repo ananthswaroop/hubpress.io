@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "Jupyter",
-    "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"Jupyter","repositoryName":"hubpress.io","branch":"gh-pages","cname":"jupyter.org"},"site":{"url":"http://jupyter.org"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://Jupyter.github.io/hubpress.io/themes/Casper"}}
