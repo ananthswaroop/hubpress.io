@@ -4,3 +4,8 @@ This is a test post.
 
 There still seem to be some bug on page rendering that doe not prepend `hubpress.io`
 
+
+You can go to https://jupyter.org/hubpress.io/hubpress to connect and try to write a post.
+
+
+
