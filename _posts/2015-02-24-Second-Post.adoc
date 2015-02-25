@@ -8,3 +8,5 @@ It will be publish just to see how it looks.
 I doubt there is mathjax :;
 
 $$ ɩnt_0^infty $$
+
+Seem there are bug with 2 posts on the same day.
