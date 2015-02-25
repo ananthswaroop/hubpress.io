@@ -10,3 +10,5 @@ I doubt there is mathjax :;
 $$ ɩnt_0^infty $$
 
 Seem there are bug with 2 posts on the same day.
+
+http://jupyter.org/hubpress.io/2015/02/24/test.html
