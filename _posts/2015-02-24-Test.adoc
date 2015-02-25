@@ -1,0 +1,14 @@
+# Test
+
+This is a test post. 
+
+There still seem to be some bug on page rendering that doe not prepend `hubpress.io`
+
+
+You can go to https://jupyter.org/hubpress.io/hubpress to connect and try to write a post.
+
+The auth can take up to 10 minutes to propagate so in a first time you will not be able to save and/or 
+deploy new posts when you clisk Save (flopy disk) or Publish (Up arrow).
+
+
+
