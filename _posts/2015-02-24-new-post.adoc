@@ -1,1 +1,8 @@
 # new post?
+
+```python
+def code_block():
+    pass
+```
+
+or not
